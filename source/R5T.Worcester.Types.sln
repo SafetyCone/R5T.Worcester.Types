@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "R5T.Worcester.Abstractions"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "R5T.Magyar", "..\..\R5T.Magyar\source\R5T.Magyar\R5T.Magyar.csproj", "{C3312309-F8DD-4E94-BE45-20E57D789D9B}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "R5T.Newport", "..\..\R5T.Newport\source\R5T.Newport\R5T.Newport.csproj", "{CB7ACE48-3E48-41DE-BE33-68DB510AE476}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -85,6 +87,18 @@ Global
 		{C3312309-F8DD-4E94-BE45-20E57D789D9B}.Release|x64.Build.0 = Release|Any CPU
 		{C3312309-F8DD-4E94-BE45-20E57D789D9B}.Release|x86.ActiveCfg = Release|Any CPU
 		{C3312309-F8DD-4E94-BE45-20E57D789D9B}.Release|x86.Build.0 = Release|Any CPU
+		{CB7ACE48-3E48-41DE-BE33-68DB510AE476}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB7ACE48-3E48-41DE-BE33-68DB510AE476}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB7ACE48-3E48-41DE-BE33-68DB510AE476}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{CB7ACE48-3E48-41DE-BE33-68DB510AE476}.Debug|x64.Build.0 = Debug|Any CPU
+		{CB7ACE48-3E48-41DE-BE33-68DB510AE476}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{CB7ACE48-3E48-41DE-BE33-68DB510AE476}.Debug|x86.Build.0 = Debug|Any CPU
+		{CB7ACE48-3E48-41DE-BE33-68DB510AE476}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB7ACE48-3E48-41DE-BE33-68DB510AE476}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB7ACE48-3E48-41DE-BE33-68DB510AE476}.Release|x64.ActiveCfg = Release|Any CPU
+		{CB7ACE48-3E48-41DE-BE33-68DB510AE476}.Release|x64.Build.0 = Release|Any CPU
+		{CB7ACE48-3E48-41DE-BE33-68DB510AE476}.Release|x86.ActiveCfg = Release|Any CPU
+		{CB7ACE48-3E48-41DE-BE33-68DB510AE476}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -92,6 +106,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{7A88AB57-91EE-433C-A37F-9F568C516CD2} = {19B279F2-AC4C-4833-83D2-B0FF523DF3C4}
 		{C3312309-F8DD-4E94-BE45-20E57D789D9B} = {19B279F2-AC4C-4833-83D2-B0FF523DF3C4}
+		{CB7ACE48-3E48-41DE-BE33-68DB510AE476} = {19B279F2-AC4C-4833-83D2-B0FF523DF3C4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {598F6125-6AF4-4A3E-9656-C25A41C70710}

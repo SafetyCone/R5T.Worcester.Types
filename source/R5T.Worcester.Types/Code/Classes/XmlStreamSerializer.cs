@@ -3,8 +3,8 @@ using System.IO;
 using System.Xml;
 using System.Xml.Serialization;
 
-using R5T.Magyar.Xml;
 using R5T.Magyar.IO;
+using R5T.Magyar.Xml;
 
 
 namespace R5T.Worcester

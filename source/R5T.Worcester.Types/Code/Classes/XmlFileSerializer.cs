@@ -1,6 +1,5 @@
 ﻿using System;
-
-using R5T.Magyar.IO;
+using System.IO;
 
 
 namespace R5T.Worcester
